@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;    
+}
+h4 {
+    text-align: center;
+}
+.button-box {
+    text-align: center;
+}
+main section {
+    text-align: center;
+}
+div {
+    max-width: content 1600px;
+}
+div {
+    background-size: 725px;
+}
+body {
+    background-color: aquamarine;
+}
+header {
+    background-color: azure;
+}
+nav a:hover {
+    background-color: yellowgreen;
+}
+.book, .join {
+    background-color: chartreuse;
+}
+::backdrop {
+    background-color: azure;
+}
+.msg {
+    background-color: darkslategray;
+}
+footer {
+    background-color: lightcoral;
+}
