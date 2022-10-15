@@ -17,7 +17,7 @@ div {
     background-size: 725px;
 }
 body {
-    background-color: rgb(175, 218, 203);
+    background-color: rgb(203, 218, 175);
 }
 header {
     background-color: azure;
@@ -62,4 +62,20 @@ footer p a:hover {
 }
 #background {
     background-color: black;
+}
+footer {
+    background-color: steelblue;
+    color: white;
+}
+footer p {
+    padding: 25px;
+}
+h1 {
+    margin: 50px 0;
+}
+nav {
+    background-color: steelblue;
+}
+a {
+    color: white;
 }
